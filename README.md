@@ -1,10 +1,3 @@
-Perfeito, Pedro 👍
-Vou criar um **README.md profissional**, bem estruturado e pronto para colocar no GitHub, considerando que o projeto é um **CRUD de Lista de Tarefas**, feito com **PHP (PDO)**, **MySQL**, **HTML**, **CSS**, **Bootstrap** e **JavaScript**.
-
-Você pode copiar tudo abaixo e salvar como `README.md` no repositório.
-
----
-
 # 📝 CRUD – Lista de Tarefas (To-Do List)
 
 Este projeto consiste em um **CRUD (Create, Read, Update, Delete)** de uma **lista de tarefas**, desenvolvido com **PHP utilizando PDO**, **MySQL**, **HTML**, **CSS**, **Bootstrap** e **JavaScript**.
